@@ -1,3 +1,4 @@
+// Problem 9: Find the Factorial of a Number
 function factorial(num) {
   let result = 1;
 

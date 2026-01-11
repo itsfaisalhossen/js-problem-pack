@@ -1,3 +1,4 @@
+// Problem 5: Remove Duplicates from an Array
 function removeDuplicates(arr) {
   let unique = [];
 

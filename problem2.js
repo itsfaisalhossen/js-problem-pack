@@ -1,3 +1,4 @@
+// Problem 2: Count Vowels in a String
 function countVowels(str) {
   let count = 0;
   let vowels = "aeiou";
