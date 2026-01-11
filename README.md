@@ -49,10 +49,4 @@ This repository contains solutions to 10 basic JavaScript problem-solving tasks 
 ## How to Run the Code
 
 1. Clone the repository
-2. Open `index.js`
-3. Run using:
-
-## How to Run the Code
-
-1. Clone the repository
 2. Open a single js file and run this
